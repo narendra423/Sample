@@ -15,6 +15,7 @@ import javax.persistence.Table;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 //import lombok.NoArgsConstructor;
+//department entity
 
 @Entity
 @Table(name="dept_tbl")
